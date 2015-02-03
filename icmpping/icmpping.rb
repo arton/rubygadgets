@@ -1,5 +1,12 @@
 =begin
- Copyright(c) 2001,2003 arton, under GPL2.
+
+ copyright(c) 2006 arton
+ 
+ Usage of the works is permitted provided that this instrument is retained
+ with the works, so that any entity that uses the works is notified of this
+ instrument.
+ 
+ DISCLAIMER: THE WORKS ARE WITHOUT WARRANTY.
  
  1.0.1 fix timeout value rounding problem and add checking host address.
        These fixes were formed by Winfried, thanks. 
